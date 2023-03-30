@@ -1,5 +1,5 @@
 # User details -- simple React with Redux example
-![](J:\JAVA\MyIdeaProjects\MyWORK\React\mylex4react\src\mypics\reactRedux.png)
+![][https:\\github.com\ME0NCONILEX\Simple-example-React-Redux\blob\main\src\mypics\reactRedux.png]
 ## Available Scripts
 ### `npm start`
 ### `npm test`
